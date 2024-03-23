@@ -1,44 +1,9 @@
 # VEHICLE-RECOGNITION-SYSTEM
 Engineered a comprehensive vehicle recognition system, encompassing license plate detection and recognition, car counting in images using OpenCV, video frame analysis for car counting. 
 
-## Contents
-
-(i) **Abstract**
-
-(ii) **Intriduction**
-
-(iii) **License plate detection and recognition**
-  
-  a. Methodology
-   
-  b. Results
-   
-(iv) **Conuting of cars in image using Open CV**
-  
-  a. Methodology
-   
-  b. Results
-  
-(v)**Counting of cars through video frames**
- 
-  a. Methodology
- 
-  b. Reslts 
-   
-(vi) **Car speed detection using IR sensor and Arduino**
-  
-  a. Methodology
-   
-  b. Results 
-
-(vii) **Applications**
-
-(viii) **Conclusion**
-
 ## Abstract
 
-
-Vehicle recognition system is the necessity of the new technological world. This project comprises of some different aspects like counting of vehicles in image using open CV, counting the number vehicles in the video frames and also the detection of the license plate in vehicles etc. It uses some python libraries for recognition like keras, numpy, pandas, tesseract etc. However, due to the different sizes of vehicles, their detection remains a challenge that directly affects the accuracy of vehicle counts. This works in a very effiecient in its performance. We can use it in various applications in our daily life.This project can also be used as traffic logger, traffic counter and few other traffic related applications. The fundamental goal is to detect and count moving vehicles with clear to have the option to do as such on streets, highways and in little paths, etc. Automated license number and entry time registration can also done using it. 
+In today's tech-driven world, vehicle recognition systems are indispensable. This project, utilizing OpenCV and Python libraries like Keras and Tesseract, offers efficient vehicle counting and license plate detection functionalities. Despite challenges in accurately detecting vehicles of varying sizes, the system demonstrates commendable performance and versatility. From traffic logging to automated license plate and entry time registration, its applications are diverse and impactful. 
 
 ## Introduction
 
