@@ -7,26 +7,23 @@ In today's tech-driven world, vehicle recognition systems are indispensable. Thi
 
 ## Introduction
 
-
-Vehicle recognition systems capture the license plates of moving vehicles using a camera, quickly scan various character information on the license plate based on image processing, and generate data. This mainly works on machine learning.License plate detection is identifying the part of the car that is predicted to be the
-number plate.This technology applies in many areas. On roads, it is used to identify the cars thatare breaking the traffic rules.Vehicle detecting and counting have a significant influence in numerous systemthat helps to regulate and control traffic in urban areas.Object detection is a fascinating field in computer vision. It goes to a whole new level when we’re dealing with video data. The complexity rises up a notch, but so do the rewards.
+Vehicle recognition systems capture the license plates of moving vehicles using a camera, quickly scan various character information on the license plate based on image processing, and generate data. This mainly works on machine learning.License plate detection is identifying the part of the car that is predicted to be the number plate.This technology applies in many areas. On roads, it is used to identify the cars that are breaking the traffic rules.Vehicle detecting and counting have a significant influence in numerous systemthat helps to regulate and control traffic in urban areas.Object detection is a fascinating field in computer vision. It goes to a whole new level when we’re dealing with video data. The complexity rises up a notch, but so do the rewards.
 
 ## LICENSE PLATE DETECTION AND RECOGNITION
 
 
 **Methodology**
 
-For software to detect and recognize a license plate, it undergoes three major
-processes1. Taking an image of a car as input - The program takes in the input of the car
-in which the license plate is to be detected.
-2. Processing the input - The image taken as the input undergoes processing to
-detect the part of the car that is the license plate.
-3. Recognizing the number plate - The values of the detected license plate are
-extracted from the number plate image.
+The process involves three key steps:
+
+Image Capture: Input is provided by capturing an image of the car containing the license plate.
+Image Processing: The captured image undergoes processing to identify and isolate the license plate region.
+Number Plate Recognition: Extracting the alphanumeric values from the detected license plate region.
+
 
 **Results**
 
-When the program has run successfully,the license plate number is printed on the display.
+Upon successful execution, the program displays the recognized license plate number.
 
 ## COUNTING CARS IN IMAGE USING OPENCV
 
